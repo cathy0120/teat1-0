@@ -1,2 +1,2 @@
-# teat1-0
-第一次測試
+-first code ha ha
+-![image](https://github.com/cathy0120/teat1-0/assets/151427210/3347b9be-7a41-4394-83d2-f3e6b24a770f)
